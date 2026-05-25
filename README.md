@@ -202,7 +202,7 @@ Each role had:
 
 ## Screenshots
 
-> All screenshots from the live deployment at `datafiltering.in` (election cycle complete, not currently live).
+> Screenshots taken from local development environment. The platform was deployed on AWS EC2 at `datafiltering.in` (election cycle complete, not currently live).
 
 ### OTP Login
 ![OTP Login](screenshots/otp-login.png)
