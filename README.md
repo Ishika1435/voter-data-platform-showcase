@@ -197,3 +197,25 @@ Each role had:
 ---
 
 *Built during Software Engineering Internship at Quickly Design Pvt. Ltd., Pune — Nov 2025 to Feb 2026.*
+
+---
+
+## Screenshots
+
+> All screenshots from the live deployment at `datafiltering.in` (election cycle complete, not currently live).
+
+### OTP Login
+![OTP Login](screenshots/otp-login.png)
+*Email OTP auth with role selector (User / Admin) and math CAPTCHA*
+
+### Prabhag Summary Analytics
+![Summary Modal](screenshots/summary-modal.png)
+*One-click analytics: total voters, mobile coverage %, family count, age distribution, top 10 surnames*
+
+### Vendor Sample Download
+![Vendor Sample Form](screenshots/vendor-sample-form.png)
+*Hierarchical dropdowns: District → Taluka → Prabhag → Booth. Scoped to vendor's granted access only.*
+
+### Vendor Order Management
+![Vendor Orders](screenshots/vendor-orders.png)
+*Full data order workflow: vendor places order → admin approves → one-time ZIP download*
